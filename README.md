@@ -1,2 +1,5 @@
 # gitlive
-# gitlive
+
+sample git commands for everyday use:
+
+
